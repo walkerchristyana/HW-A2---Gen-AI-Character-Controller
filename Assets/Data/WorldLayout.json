@@ -1,0 +1,844 @@
+{
+  "items": [
+    {
+      "sprite": "House_Peach",
+      "x": -21,
+      "y": 8,
+      "solid": true
+    },
+    {
+      "sprite": "House_Blue",
+      "x": -10,
+      "y": 8,
+      "solid": true
+    },
+    {
+      "sprite": "House_Yellow",
+      "x": -21,
+      "y": -13,
+      "solid": true
+    },
+    {
+      "sprite": "House_Blue",
+      "x": -10,
+      "y": -13,
+      "solid": true
+    },
+    {
+      "sprite": "House_Peach",
+      "x": 10,
+      "y": -13,
+      "solid": true
+    },
+    {
+      "sprite": "House_Yellow",
+      "x": 23,
+      "y": -13,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -27,
+      "y": 18,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -17,
+      "y": 19,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -5,
+      "y": 19,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 7,
+      "y": 20,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 20,
+      "y": 19,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 28,
+      "y": 15,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -28,
+      "y": 0,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -27,
+      "y": -19,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -17,
+      "y": -20,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -5,
+      "y": -19,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 8,
+      "y": -20,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 27,
+      "y": -20,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 27,
+      "y": 5,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -28,
+      "y": 10,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": -5,
+      "y": 10,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 5,
+      "y": 12,
+      "solid": true
+    },
+    {
+      "sprite": "Tree",
+      "x": 21,
+      "y": 12,
+      "solid": true
+    },
+    {
+      "sprite": "Bench",
+      "x": 7,
+      "y": 6,
+      "solid": true
+    },
+    {
+      "sprite": "Bench",
+      "x": 18,
+      "y": 6,
+      "solid": true
+    },
+    {
+      "sprite": "Bench",
+      "x": 7,
+      "y": 14,
+      "solid": true
+    },
+    {
+      "sprite": "Bench",
+      "x": 18,
+      "y": 14,
+      "solid": true
+    },
+    {
+      "sprite": "Fountain",
+      "x": 12,
+      "y": 10,
+      "solid": true
+    },
+    {
+      "sprite": "Sign",
+      "x": 3,
+      "y": -4,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": -25,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": -17,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": -9,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": -1,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": 7,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": 15,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Streetlight",
+      "x": 23,
+      "y": 2.5,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 5,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 7,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 9,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 11,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 13,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 15,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 17,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 19,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Fence",
+      "x": 21,
+      "y": 17,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": -25,
+      "y": 6,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": -17,
+      "y": 6,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": -5,
+      "y": -10,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": 20,
+      "y": 5,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": 23,
+      "y": 5,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": 20,
+      "y": 14,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": -25,
+      "y": -10,
+      "solid": true
+    },
+    {
+      "sprite": "Bush",
+      "x": 26,
+      "y": -9,
+      "solid": true
+    },
+    {
+      "sprite": "Rock",
+      "x": -26,
+      "y": 15,
+      "solid": true
+    },
+    {
+      "sprite": "Rock",
+      "x": 25,
+      "y": 14,
+      "solid": true
+    },
+    {
+      "sprite": "Rock",
+      "x": -16,
+      "y": -18,
+      "solid": true
+    },
+    {
+      "sprite": "Rock",
+      "x": 18,
+      "y": -18,
+      "solid": true
+    },
+    {
+      "sprite": "Rock",
+      "x": -7,
+      "y": 15,
+      "solid": true
+    },
+    {
+      "sprite": "Flower",
+      "x": 12.16,
+      "y": -5.55,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -23.47,
+      "y": -16.89,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -17.84,
+      "y": -19.94,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 28.41,
+      "y": -16.22,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 26.47,
+      "y": 11.55,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -28.9,
+      "y": -10.49,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -16.94,
+      "y": 7.57,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -9.74,
+      "y": 9.3,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 22.94,
+      "y": -19.68,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 24.45,
+      "y": 10.13,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 16.65,
+      "y": -14.35,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 8.39,
+      "y": -12.71,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 26.24,
+      "y": -19.67,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 15.87,
+      "y": -17.24,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 17.81,
+      "y": -15.54,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -25.84,
+      "y": 18.0,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -21.71,
+      "y": 16.67,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -26.05,
+      "y": -16.53,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -23.77,
+      "y": 12.96,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -19.03,
+      "y": -20.28,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 23.68,
+      "y": 20.22,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 20.89,
+      "y": 13.44,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 28.69,
+      "y": 4.01,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 18.75,
+      "y": 8.53,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 26.63,
+      "y": -7.45,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -24.55,
+      "y": -5.65,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 28.69,
+      "y": 5.95,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 8.58,
+      "y": 13.57,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 24.39,
+      "y": -18.12,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 19.7,
+      "y": -16.16,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -26.02,
+      "y": 6.11,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -19.09,
+      "y": -21.0,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 10.25,
+      "y": -19.12,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 28.08,
+      "y": 16.22,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -20.31,
+      "y": 16.11,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 12.66,
+      "y": -20.16,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -24.29,
+      "y": -9.6,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 17.19,
+      "y": 9.45,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -28.55,
+      "y": -5.95,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -22.53,
+      "y": -15.82,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -6.81,
+      "y": -8.68,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 13.02,
+      "y": -6.99,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -14.36,
+      "y": -9.16,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -10.97,
+      "y": -11.92,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 4.88,
+      "y": 16.75,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -27.52,
+      "y": 6.14,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 28.95,
+      "y": -6.72,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -6.69,
+      "y": 4.26,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -14.49,
+      "y": 11.06,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 27.62,
+      "y": 19.8,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 16.36,
+      "y": -5.18,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 12.5,
+      "y": -10.73,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 18.21,
+      "y": 19.91,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 15.09,
+      "y": 13.76,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -17.68,
+      "y": 14.69,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -24.65,
+      "y": 12.24,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -26.09,
+      "y": -13.03,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 18.1,
+      "y": 4.36,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -12.58,
+      "y": 20.78,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -25.04,
+      "y": -17.88,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 12.65,
+      "y": 9.16,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -22.78,
+      "y": -5.72,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -16.35,
+      "y": 7.62,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 27.85,
+      "y": -18.91,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 23.31,
+      "y": 13.43,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -26.24,
+      "y": -18.66,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -27.23,
+      "y": -8.12,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -7.83,
+      "y": -8.58,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 9.91,
+      "y": 10.05,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -21.38,
+      "y": 20.96,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -16.86,
+      "y": 11.33,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 28.83,
+      "y": 15.79,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -15.77,
+      "y": 15.29,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 18.76,
+      "y": 13.12,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -18.71,
+      "y": -10.64,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 21.06,
+      "y": 5.67,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 27.75,
+      "y": -16.36,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -26.67,
+      "y": 15.57,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -13.2,
+      "y": -8.38,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 17.84,
+      "y": -12.62,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": 25.08,
+      "y": -9.19,
+      "solid": false
+    },
+    {
+      "sprite": "Flower",
+      "x": -22.46,
+      "y": 20.53,
+      "solid": false
+    }
+  ]
+}
